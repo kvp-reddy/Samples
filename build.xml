@@ -10,7 +10,7 @@
   <property name="dist" location="dist"/>
   
   <path id="classpath">
- 		 <fileset dir="../../Downloads/jars-lib">
+ 		 <fileset dir="../../../Downloads/jars-lib">
   		  <include name="*.jar" />
  		 </fileset>
 	</path>
