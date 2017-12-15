@@ -52,7 +52,7 @@
     <fileset dir="${src}" includes="*.xml" excludes="*.java" />
   </copy>
   <copy todir="${dist}/lib">
-    <fileset dir="../../Downloads/jars-lib" includes="*.jar" excludes="*.js" />
+    <fileset dir="../../../Downloads/jars-lib" includes="*.jar" excludes="*.js" />
   </copy>
   
   </target> 
